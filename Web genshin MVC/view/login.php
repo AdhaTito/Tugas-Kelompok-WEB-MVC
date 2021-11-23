@@ -11,36 +11,6 @@
 <body background="spesifikasi/bg.jpg">
     <p align=center><img src="<?php echo base_url(); ?>assets/image/logospek.jpg" width="500" height="220"></p>
         <div class="container">
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
           <h1>Login</h1>
             <form>
                 <label>Username</label><br>
