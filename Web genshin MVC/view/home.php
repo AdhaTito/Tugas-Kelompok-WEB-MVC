@@ -19,7 +19,7 @@
                 <p class="deskripsi">Spesifikasi</p>
                 <p>Game RPG open world yang dibumbui dengan sistem pertarungan hack and slash tersebut tersedia di beragam platform mulai dari PC, PS4, Android, hingga iOS dan mendukung fitur crossplay.</p> 
                 <p>Genshin Impact sendiri mengusung desain karakter dan lingkungan menyerupai anime dan dibekali dengan kualitas tampilan visual yang memanjakan mata. Game ini pun membutuhkan perangkat dengan spesifikasi yang cukup mumpuni agar bisa lancar dimainkan.</p>
-                <p><a href="spek.php" class="boxbiru">Selengkapnya</a></p>
+                <p><a href="<?php echo base_url(). 'webgenshin/spek' ?>" class="boxbiru">Selengkapnya</a></p>
             </div>
             <img src="<?php echo base_url(); ?>assets/image/spek.jpg" width="620" height="320" />
         </section>
@@ -30,7 +30,7 @@
                 <p class="deskripsi">Tentang Game</p>
                 <p>miHoYo adalah sebuah perusahaan studio animasi dan pengembang permainan video yang berbasis di Shanghai, Tiongkok. Perusahaan ini didirikan pada tahun 2012 oleh tiga mahasiswa dari Universitas Jiao Tong Shanghai dan, hingga 2020, memperkerjakan lebih dari 1.500 orang.</p> 
                 <p>Perusahaan ini didirikan pada tahun 2012 oleh tiga mahasiswa dari Universitas Jiao Tong Shanghai yang memutuskan untuk mengembangkan permainan berdasarkan kecintaan mereka terhadap anime. Salah satu permainan mereka adalah Guns Girl yang dirilis pada 2014.<br>Sejak saat itu, perusahaan ini merilis beberapa permainan video yang bertemakan anime dan berfokus dalam platform telepon seluler.</p>
-                <p><a href="about.php" class="boxbiru">Selengkapnya</a></p>
+                <p><a href="<?php echo base_url(). 'webgenshin/about' ?>" class="boxbiru">Selengkapnya</a></p>
             </div>
             <img src="<?php echo base_url(); ?>assets/image/about.jpg" width="620" height="380" />
         </section>
